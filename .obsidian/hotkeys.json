@@ -1,4 +1,13 @@
 {
   "templater-obsidian:replace-in-file-templater": [],
-  "templater-obsidian:jump-to-next-cursor-location": []
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

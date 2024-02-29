@@ -1,0 +1,501 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "158px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "133px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-all",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "sortDir": "desc",
+        "isVisible": true,
+        "width": "131.640625px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "dd/mm/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "sortDir": "asc",
+        "isVisible": true,
+        "width": "113.578125px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "dd/mm/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "e61fb6e4-4511-4973-bb25-f872e458257b"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "ad825dfe-5d97-4993-8d9a-c451f3bb2466",
+        "index": 4,
+        "creationTime": 1695347673919,
+        "lastEditedTime": 1700794994735
+      },
+      {
+        "id": "f2e9f253-9447-4299-b13d-8cab1920109a",
+        "index": 5,
+        "creationTime": 1695349263111,
+        "lastEditedTime": 1700795281513
+      },
+      {
+        "id": "13b7418a-0ec7-4627-b629-1b3badac089c",
+        "index": 6,
+        "creationTime": 1695349695128,
+        "lastEditedTime": 1695349715692
+      },
+      {
+        "id": "166615ea-783d-4615-8bc6-f75a8880d973",
+        "index": 7,
+        "creationTime": 1701646704110,
+        "lastEditedTime": 1701649583424
+      },
+      {
+        "id": "d1a4111e-ff3a-4723-b87f-00ec29766fe4",
+        "index": 0,
+        "creationTime": 1695349975309,
+        "lastEditedTime": 1695350009566
+      },
+      {
+        "id": "7a09e277-0c02-4b9c-82cf-e88543ef2e3a",
+        "index": 3,
+        "creationTime": 1695349606642,
+        "lastEditedTime": 1700795123035
+      },
+      {
+        "id": "016569fa-af31-4b07-8c06-e8b0b1f91e09",
+        "index": 1,
+        "creationTime": 1695349677880,
+        "lastEditedTime": 1695349802038
+      },
+      {
+        "id": "812f12dd-a684-4cc9-a960-50f09cb1bcf1",
+        "index": 2,
+        "creationTime": 1695349500861,
+        "lastEditedTime": 1695349602284
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "a6a6546f-918c-4fa2-b2a6-194e8b5c0b72"
+      },
+      {
+        "id": "b1d19cbd-b919-4121-956d-f924ef7da0fc"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "0d965fd0-c896-48d8-8115-a570e46f020e",
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "e61fb6e4-4511-4973-bb25-f872e458257b",
+        "markdown": "Producto"
+      },
+      {
+        "id": "e461da7c-ad8a-42c8-9730-7f3a7c1bb342",
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "e61fb6e4-4511-4973-bb25-f872e458257b",
+        "markdown": "Fecha inicio"
+      },
+      {
+        "id": "9e17b04d-52fd-475c-b187-3ee84ca6537d",
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "e61fb6e4-4511-4973-bb25-f872e458257b",
+        "markdown": "Fecha 💀"
+      },
+      {
+        "id": "6b9047e8-cc3b-4dfc-8da4-cdf81dff1a15",
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "e61fb6e4-4511-4973-bb25-f872e458257b",
+        "markdown": "Foto 📷"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "f0e41d90-203b-428c-a467-749ea20e5640",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "ad825dfe-5d97-4993-8d9a-c451f3bb2466",
+        "dateTime": null,
+        "markdown": "Tetralysal 300 galderma",
+        "tagIds": []
+      },
+      {
+        "id": "b3e97aa7-f492-4a9c-938d-c061f0716ff1",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "ad825dfe-5d97-4993-8d9a-c451f3bb2466",
+        "dateTime": 1695265200000,
+        "markdown": "21/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "8d179e29-79a6-4637-a9d4-6651e580b47e",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "ad825dfe-5d97-4993-8d9a-c451f3bb2466",
+        "dateTime": null,
+        "markdown": "30/10/2023",
+        "tagIds": []
+      },
+      {
+        "id": "cfabfcf1-533e-411d-a93e-9856a2edede2",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "ad825dfe-5d97-4993-8d9a-c451f3bb2466",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921213300.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "e5212948-7e2c-4c18-a458-2dd7c8d5c414",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "f2e9f253-9447-4299-b13d-8cab1920109a",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921213322.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "b5e907c1-1920-489f-945d-e726ad143159",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "f2e9f253-9447-4299-b13d-8cab1920109a",
+        "dateTime": null,
+        "markdown": "Epiduo 30g Gel (Adapaleno y peroxido de benzoilo)",
+        "tagIds": []
+      },
+      {
+        "id": "c5d552b1-cf03-46a7-8bf0-e4da9d65c63b",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "f2e9f253-9447-4299-b13d-8cab1920109a",
+        "dateTime": 1695265200000,
+        "markdown": "21/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "b6860095-226e-44f0-9b58-fd8e17623825",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "f2e9f253-9447-4299-b13d-8cab1920109a",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "1c1e4f0b-7960-45c5-b1a3-b4dffc037c03",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "812f12dd-a684-4cc9-a960-50f09cb1bcf1",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921232540.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "d3c18de2-f885-466a-be7a-82a3dd94614b",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "812f12dd-a684-4cc9-a960-50f09cb1bcf1",
+        "dateTime": null,
+        "markdown": "Gel De Limpieza Loreal Revitalift Acido Hialuronico",
+        "tagIds": []
+      },
+      {
+        "id": "04034dce-ce47-4ba4-8be9-6307a0ea9f50",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "812f12dd-a684-4cc9-a960-50f09cb1bcf1",
+        "dateTime": 1685934000000,
+        "markdown": "05/06/2023",
+        "tagIds": []
+      },
+      {
+        "id": "b60a0390-013c-4e75-b664-b29eb377cc48",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "812f12dd-a684-4cc9-a960-50f09cb1bcf1",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e02c75d5-6262-4930-ba14-5cfba054ea9a",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "7a09e277-0c02-4b9c-82cf-e88543ef2e3a",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921232712.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "8ee6a8ef-4490-498a-9b50-e071a94e2407",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "7a09e277-0c02-4b9c-82cf-e88543ef2e3a",
+        "dateTime": null,
+        "markdown": "L'oréal Paris Revitalift ácido Hialurónico Serum X 30ml ",
+        "tagIds": []
+      },
+      {
+        "id": "0ef0ad91-a98c-4b85-bb68-5c1d4d4eea4f",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "7a09e277-0c02-4b9c-82cf-e88543ef2e3a",
+        "dateTime": 1685934000000,
+        "markdown": "05/06/2023",
+        "tagIds": []
+      },
+      {
+        "id": "29f6159b-da0d-494f-b3e4-2b6c740815db",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "7a09e277-0c02-4b9c-82cf-e88543ef2e3a",
+        "dateTime": null,
+        "markdown": "30/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "b8ab24fe-d60b-4619-a80f-29b3e8560732",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "016569fa-af31-4b07-8c06-e8b0b1f91e09",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921232936.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "fec01615-b24b-47ee-afe0-309f908f47f7",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "016569fa-af31-4b07-8c06-e8b0b1f91e09",
+        "dateTime": null,
+        "markdown": "Loreal Revitalift crema antibrillo con ácido hialurónico x50ml",
+        "tagIds": []
+      },
+      {
+        "id": "c733f7c7-cd84-4b32-9e3e-b098e8ed8464",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "016569fa-af31-4b07-8c06-e8b0b1f91e09",
+        "dateTime": 1685934000000,
+        "markdown": "05/06/2023",
+        "tagIds": []
+      },
+      {
+        "id": "93f52fb3-35be-4a04-960f-05d102d5b85f",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "016569fa-af31-4b07-8c06-e8b0b1f91e09",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "db483df7-edcc-4e37-9f01-af7831e4aacb",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "13b7418a-0ec7-4627-b629-1b3badac089c",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921232712.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "6608b638-e72e-4b9f-ab3c-d610a48c6a3d",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "13b7418a-0ec7-4627-b629-1b3badac089c",
+        "dateTime": null,
+        "markdown": "L'oréal Paris Revitalift ácido Hialurónico Serum X 30ml ",
+        "tagIds": []
+      },
+      {
+        "id": "4f653657-74f0-45d1-a4eb-1ed2609364c3",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "13b7418a-0ec7-4627-b629-1b3badac089c",
+        "dateTime": 1695265200000,
+        "markdown": "21/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "d1c40d88-51bf-4afe-9cb1-b0c19c8bd7d0",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "13b7418a-0ec7-4627-b629-1b3badac089c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "aa557ef8-b65b-4d09-9619-1d715298a15f",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "d1a4111e-ff3a-4723-b87f-00ec29766fe4",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20230921233240.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "93566043-6a3e-4e3e-ab44-d4582fce9c4d",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "d1a4111e-ff3a-4723-b87f-00ec29766fe4",
+        "dateTime": null,
+        "markdown": "L'Oréal UV Defender Fluido Invisible Protector Solar FPS50+ 40gr",
+        "tagIds": []
+      },
+      {
+        "id": "b04191ce-bdbd-44a1-a991-6ad236715f7b",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "d1a4111e-ff3a-4723-b87f-00ec29766fe4",
+        "dateTime": 1685934000000,
+        "markdown": "05/06/2023",
+        "tagIds": []
+      },
+      {
+        "id": "6048a019-3b36-465d-bc69-b6ef1b0585c0",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "d1a4111e-ff3a-4723-b87f-00ec29766fe4",
+        "dateTime": 1694487600000,
+        "markdown": "12/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "60ea25b2-9c97-48c2-a040-a8e19fcda609",
+        "isExternalLink": false,
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "166615ea-783d-4615-8bc6-f75a8880d973",
+        "dateTime": null,
+        "markdown": "![[Pasted image 20231203203857.png]]",
+        "tagIds": []
+      },
+      {
+        "id": "66a2e5dd-2950-4998-bd00-9bf4a332bcd0",
+        "isExternalLink": false,
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "166615ea-783d-4615-8bc6-f75a8880d973",
+        "dateTime": null,
+        "markdown": "[ANTHELIOS UVMUNE 400 TOQUE SECO GEL CREMA CON COLOR SPF50+](Skincare#Protector%20solar%20Anthelios%20Toque%20Seco%20Gel%20crema%20con%20color%20SPF50+)",
+        "tagIds": []
+      },
+      {
+        "id": "1cde4081-5dce-49b2-b2f6-a8f54c103fd2",
+        "isExternalLink": false,
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "166615ea-783d-4615-8bc6-f75a8880d973",
+        "dateTime": null,
+        "markdown": "21/09/2023",
+        "tagIds": []
+      },
+      {
+        "id": "cd46238f-0903-49ef-a97b-76f2d35917ea",
+        "isExternalLink": false,
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "166615ea-783d-4615-8bc6-f75a8880d973",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "8b47f7e0-25d4-44f6-b667-afd4c5260636",
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "a6a6546f-918c-4fa2-b2a6-194e8b5c0b72"
+      },
+      {
+        "id": "ff2e3277-c7cf-472f-a49f-a7153fe12855",
+        "columnId": "d2ae8cf3-4cc5-4af1-809a-f63208559a09",
+        "rowId": "b1d19cbd-b919-4121-956d-f924ef7da0fc"
+      },
+      {
+        "id": "e8eacc37-0aaa-455a-9488-0e97d8b33e97",
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "a6a6546f-918c-4fa2-b2a6-194e8b5c0b72"
+      },
+      {
+        "id": "8206dad6-7b63-47a6-aeb1-dc8363844f4c",
+        "columnId": "0df4ceb6-7ed5-4e24-b047-602a16597519",
+        "rowId": "b1d19cbd-b919-4121-956d-f924ef7da0fc"
+      },
+      {
+        "id": "1861688c-f589-4da2-9d49-6dd1eea12ed8",
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "a6a6546f-918c-4fa2-b2a6-194e8b5c0b72"
+      },
+      {
+        "id": "2ac6709c-4729-4192-88fc-ed2489b3553b",
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "rowId": "b1d19cbd-b919-4121-956d-f924ef7da0fc"
+      },
+      {
+        "id": "858abc2b-0687-4655-aa33-2ba3a1a725c2",
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "a6a6546f-918c-4fa2-b2a6-194e8b5c0b72"
+      },
+      {
+        "id": "c9b96f1d-8846-46c9-a24d-b0cdfd1d6abe",
+        "columnId": "766f727b-18b3-4b89-a2ac-e62ebbd266db",
+        "rowId": "b1d19cbd-b919-4121-956d-f924ef7da0fc"
+      }
+    ],
+    "filterRules": [
+      {
+        "id": "6ab8785e-c312-4119-8ef9-939d20a87347",
+        "columnId": "bcec6175-3c58-4b81-8b24-964d1f365205",
+        "type": "is-empty",
+        "text": "",
+        "tagIds": [],
+        "isEnabled": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 1
+    }
+  },
+  "pluginVersion": "8.2.2"
+}

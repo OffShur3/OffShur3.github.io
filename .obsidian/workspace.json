@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Capitulo 1.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Capitulo 1.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Capitulo 1.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Capitulo 1.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -149,18 +149,34 @@
   },
   "active": "78488d55e151df89",
   "lastOpenFiles": [
+    "src/Capitulo 1.md",
+    "book/Assets/Pasted image 20230323111000.png",
+    "book/Assets/PTT-20230925-WA0028.opus",
+    "book/Assets/Pasted image 20230818003831.png",
+    "book/Assets/Pasted image 20230603020846.png",
+    "book/Assets/Pasted image 20230818010426.png",
+    "book/Assets/Pasted image 20230323105654.png",
+    "book/Assets/SmartSelect_20230701_230608_WhatsApp.jpg",
+    "book/Assets/Pasted image 20240215102855.png",
+    "book/Assets/Pasted image 20231106233731.png",
+    "book/Assets/Pasted image 20230418105118.png",
+    "book/Assets/Pasted image 20230818010647.png",
+    "book/Assets/Recording 20230224015742.webm",
+    "book/Assets/Recording 20230224015942.webm",
+    "book/Assets/Untitled.loom",
+    "book/Assets/d378d4bc-47fe-478d-bd68-fdbba3de2980.wav",
+    "book/Assets/Encuentro 2.pdf",
+    "book/Assets/PTT-20230925-WA0027.opus",
+    "book/Assets/Recording 20230303092940.webm",
+    "book/Assets/0ce01663-a609-4f6d-9157-fa2f613737da.wav",
+    "book/Assets/PTT-20231217-WA0003.opus",
+    "src/Assets/Firstflake.md",
+    "src/a/Firstflake.md",
+    "src/assets/Firstflake.md",
+    "src/Link to ANEXOS/Firstflake.md",
     "src/SUMMARY.md",
-    "book/Assets/u.ico",
-    "book/Assets",
-    "book/elasticlunr.min.js",
-    "book/mark.min.js",
     "666 - Blog/blog/uwu oasas.md",
-    "book/searchindex.json",
-    "666 - Blog/blog/uwu oasas.html",
     "src/uwu oasas.md",
-    "666 - Blog/blog",
-    "666 - Blog",
-    "book/uwu oasas.html",
     "src/Sin título.md",
     "PLANTILLAS/zz Plantilla Diario deprecated.md",
     "PLANTILLAS/plantilla SERIE.md",
@@ -177,12 +193,6 @@
     "PLANTILLAS/Plantilla Trimestral.md",
     "PLANTILLAS/Plantilla Materia Facultad.md",
     "PLANTILLAS/Plantilla Lugares.md",
-    "PLANTILLAS/Plantilla Diario.md",
-    "PLANTILLAS/Plantilla Course cybsec.md",
-    "PLANTILLAS/Plantilla Clases cybsec.md",
-    "PLANTILLAS/Plantilla Anki.md",
-    "PLANTILLAS/Notas de clase.md",
-    "PLANTILLAS/Notas de blog.md",
-    "PLANTILLAS"
+    "PLANTILLAS/Plantilla Diario.md"
   ]
 }
