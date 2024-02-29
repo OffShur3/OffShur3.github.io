@@ -1,6 +1,6 @@
 [book]
 authors = ["OffShur3"]
-language = "es"
+language = "en"
 multilingual = false
 src = "src"
 title = "Shur3's Blog"
