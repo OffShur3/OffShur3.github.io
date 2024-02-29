@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "542c2b920dfe0cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a9b853c15bd30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78488d55e151df89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Capitulo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70a692b18dd4bf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "820f3c6b54efec3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8abcb684edf24434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af72803fd61ec893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6db7cd22d85e0166",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "19e19577dc90011c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7b498d348da791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407f908f11bba20e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/Capitulo 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b1e17006ea830c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/Capitulo 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49d65029e85ecf2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a55ea04b03e7b33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/Capitulo 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "78488d55e151df89",
+  "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "book/Assets/u.ico",
+    "book/Assets",
+    "book/elasticlunr.min.js",
+    "book/mark.min.js",
+    "666 - Blog/blog/uwu oasas.md",
+    "book/searchindex.json",
+    "666 - Blog/blog/uwu oasas.html",
+    "src/uwu oasas.md",
+    "666 - Blog/blog",
+    "666 - Blog",
+    "book/uwu oasas.html",
+    "src/Sin título.md",
+    "PLANTILLAS/zz Plantilla Diario deprecated.md",
+    "PLANTILLAS/plantilla SERIE.md",
+    "PLANTILLAS/plantilla PELICULA.md",
+    "PLANTILLAS/plantilla LIBRO.md",
+    "PLANTILLAS/embed nota.md",
+    "PLANTILLAS/embed blog.md",
+    "PLANTILLAS/Plantilla yearly.md",
+    "PLANTILLAS/Plantilla semanal.md",
+    "PLANTILLAS/Plantilla paroma.md",
+    "PLANTILLAS/Plantilla machine-htb.md",
+    "PLANTILLAS/Plantilla borrador.md",
+    "PLANTILLAS/Plantilla Unidad.md",
+    "PLANTILLAS/Plantilla Trimestral.md",
+    "PLANTILLAS/Plantilla Materia Facultad.md",
+    "PLANTILLAS/Plantilla Lugares.md",
+    "PLANTILLAS/Plantilla Diario.md",
+    "PLANTILLAS/Plantilla Course cybsec.md",
+    "PLANTILLAS/Plantilla Clases cybsec.md",
+    "PLANTILLAS/Plantilla Anki.md",
+    "PLANTILLAS/Notas de clase.md",
+    "PLANTILLAS/Notas de blog.md",
+    "PLANTILLAS"
+  ]
+}
