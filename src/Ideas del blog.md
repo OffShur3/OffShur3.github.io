@@ -12,8 +12,13 @@ fecha: 01-03-2024
 - [_S4vitar_](https://www.youtube.com/@s4vitar)
 - Random (tips de Ciberseguridad para programadores, Actualizaciones de OS y mejoras de seguridad, IA)
 - [_Worldhey.com_](HTTPS://world.hey.com/dhh)
-- Utilizar titulo centrado con 
+- Utilizar titulo centrado con \<center\>Titulo\</center\>
+    como ↓
 <center>Titulo</center>
+
 ----
 ## Ideas generales:
-- 
+----
+
+
+
