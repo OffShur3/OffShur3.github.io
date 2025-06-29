@@ -1,11 +1,3 @@
----
-tag: b, ineedsomebreath
-categoria:
-archivo: "Ideas del blog"
-fecha: 01-03-2024
----
-↑ frontmatter ↑
-
 ----
 # <center>Ideas del blog</center>
 ----
@@ -21,6 +13,7 @@ fecha: 01-03-2024
 ----
 ## Ideas generales:
 ----
+### 1er post:
 
 
 
